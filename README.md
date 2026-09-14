@@ -102,11 +102,43 @@ DealSignal Dashboard
 - Source verification is not yet automated
 - Score does not establish acquisition suitability
 
+## Business Understanding
+
+### What is Caprae's Mission?
+
+[Your answer]
+
+### Why do you want to work at Caprae Capital?
+
+[Your answer]
+
+### How is Caprae Changing the ETA Space and Broader PE?
+
+[Your answer]
+
+### Additional Questions
+
+**Current US working status:**  
+I am currently based in Pakistan and do not currently have US work authorization.
+
+**40 hours/week:**  
+Yes, I am willing and able to work a minimum of 40 hours per week.
+
+**Why Caprae Capital?**  
+[Your answer]
+
+**Expected salary:**  
+I am open to discussing compensation based on the role, responsibilities, and overall opportunity.
+
+### Employment Expectations
+
+I understand and am comfortable with the 3-month probationary period, the 9AM–6PM EST schedule with a 1-hour lunch during the initial 2–3 month training period, and occasional off-hours availability for customer emergencies or time-sensitive projects. This would not be an issue for me.
+
 ## Author
 
 Nuaima Saeed  
 AI Engineer
 
-Portfolio: YOUR_PORTFOLIO_URL
-LinkedIn: YOUR_LINKEDIN_URL
-GitHub: YOUR_GITHUB_URL
+Portfolio: https://nuaima-portfolio.netlify.app/
+LinkedIn: https://www.linkedin.com/in/nuaimasaeed/
+GitHub: https://github.com/Nuaima
