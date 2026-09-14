@@ -157,5 +157,7 @@ Nuaima Saeed
 AI Engineer
 
 Portfolio: https://nuaima-portfolio.netlify.app/
+
 LinkedIn: https://www.linkedin.com/in/nuaimasaeed/
+
 GitHub: https://github.com/Nuaima
