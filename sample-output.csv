@@ -1,0 +1,11 @@
+company,industry,research_priority,score,data_coverage
+Oakridge Accounting,Professional Services,HIGH,85,65
+Acme Software,B2B Software,HIGH,79,65
+Summit IT Services,IT Services,HIGH,76,65
+Northstar Consulting,Business Services,MEDIUM,73,65
+Greenfield Logistics,Logistics,MEDIUM,71,65
+Harbor Engineering,Engineering,MEDIUM,71,65
+Bright Dental Group,Healthcare,MEDIUM,69,65
+Pioneer Media,Marketing,MEDIUM,66,80
+Vertex Manufacturing,Manufacturing,MEDIUM,63,80
+CloudPeak Systems,B2B Software,MEDIUM,50,80
