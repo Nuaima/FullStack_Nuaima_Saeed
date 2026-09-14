@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-[Open DealSignal](YOUR_NETLIFY_URL)
+[Open DealSignal](https://fullstacknuaima.netlify.app/)
 
 ## Problem
 
